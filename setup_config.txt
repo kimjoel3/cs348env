@@ -1,0 +1,2 @@
+The latest version of Python is 3.12.1, and you have version 3.10.9 installed.
+Python is running in a virtual environment called cs348env, located at /Users/joelkim/cs348env.
